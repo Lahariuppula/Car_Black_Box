@@ -57,9 +57,9 @@ An Embedded C based **Car Black Box System** developed using the **PIC16F877A** 
 HHMMSS  EVENT  SPEED
 
 Example:
-103015  G1     25
-103225  C      40
-103455  G2     35
+- 103015  G1     25
+- 103225  C      40
+- 103455  G2     35
 
 ## Project Flow
 
