@@ -63,7 +63,7 @@ Example:
 
 ## Project Flow
 
-Dashboard --> Login --> Main Menu -- View Logs
+Dashboard --> Login --> Main Menu ==>View Logs
                                   -- Clear Logs
                                   -- Download Logs
                                   -- Set Time
