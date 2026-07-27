@@ -63,16 +63,11 @@ Example:
 
 ## Project Flow
 
-Dashboard
-↓
-Login
-↓
-Main Menu
-├── View Logs
-├── Clear Logs
-├── Download Logs
-├── Set Time
-└── Change Password
+Dashboard --> Login --> Main Menu -- View Logs
+                                  -- Clear Logs
+                                  -- Download Logs
+                                  -- Set Time
+                                  -- Change Password
 
 ## Learning Outcomes
 
